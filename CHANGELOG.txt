@@ -1,0 +1,19 @@
+/ChangeLog/
+From starting the project thi sis what has been added
+9/10/2023
+-A way to generate the borders and fille the map with terrain
+-A path generation that had multiple itteration that allows there to be
+Random exit points with at least one turn in each path
+-The way to place the buildings around the map that can be in any location and a path will be generated from the building to the main path
+9/17/2023
+-Added the ability to traverse to different maps(401x401)
+-Made it so the paths connect seemlessly throughout the map
+-Added the probability of buildings spawning to follow the requirements
+-Added a ability to fly to previously visited maps
+10/1/2023
+-added methods that calculate the movement cost of each character
+-implemented a method(its bugged)/that makes a cost map
+-Placed the character on the map
+10/8/2023
+-added heap and functions to move the characters
+-I think with my system the updating map 4 times a second is bugged im not sure for you
